@@ -1,0 +1,10 @@
+Opened log file "eae6320.log"
+Initialized time
+Registered main window class "John-Paul's EAE6320 Example Main Window Class"
+The user settings file "settings.ini" doesn't exist. Using default settings instead.
+Created main window "Yexiang's EAE6320 My Game -- Direct3D -- Debug"
+Set main window resolution to 512 x 512
+Initialize Yexiang's EAE6320 My Game.
+Failed to load shader from file data/Shaders/Fragment/MoleActive.shader: Windows failed to open the file "data/Shaders/Fragment/MoleActive.shader" for reading: 系统找不到指定的文件。
+Failed to load shader from file data/Shaders/Fragment/MoleInactive.shader: Windows failed to open the file "data/Shaders/Fragment/MoleInactive.shader" for reading: 系统找不到指定的文件。
+Failed to load shader from file data/Shaders/Fragment/MoleEnd.shader: Windows failed to open the file "data/Shaders/Fragment/MoleEnd.shader" for reading: 系统找不到指定的文件。

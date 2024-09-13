@@ -1,0 +1,35 @@
+﻿  cConstantBuffer.cpp
+E:\C++ Projects\Eng2\assigment01_Solution\Engine\Graphics\cConstantBuffer.h(28,10): fatal error C1083: Cannot open include file: 'Engine/Results/Results.h': No such file or directory
+  cRenderState.cpp
+E:\C++ Projects\Eng2\assigment01_Solution\Engine\Graphics\cRenderState.h(18,10): fatal error C1083: Cannot open include file: 'Engine/Results/Results.h': No such file or directory
+  cShader.cpp
+E:\C++ Projects\Eng2\assigment01_Solution\Engine\Graphics\cShader.h(16,10): fatal error C1083: Cannot open include file: 'Engine/Assets/ReferenceCountedAssets.h': No such file or directory
+  cVertexFormat.cpp
+E:\C++ Projects\Eng2\assigment01_Solution\Engine\Graphics\cVertexFormat.h(22,10): fatal error C1083: Cannot open include file: 'Engine/Assets/ReferenceCountedAssets.h': No such file or directory
+  cConstantBuffer.d3d.cpp
+E:\C++ Projects\Eng2\assigment01_Solution\Engine\Graphics\cConstantBuffer.h(28,10): fatal error C1083: Cannot open include file: 'Engine/Results/Results.h': No such file or directory
+  cRenderState.d3d.cpp
+E:\C++ Projects\Eng2\assigment01_Solution\Engine\Graphics\cRenderState.h(18,10): fatal error C1083: Cannot open include file: 'Engine/Results/Results.h': No such file or directory
+  cShader.d3d.cpp
+E:\C++ Projects\Eng2\assigment01_Solution\Engine\Graphics\cShader.h(16,10): fatal error C1083: Cannot open include file: 'Engine/Assets/ReferenceCountedAssets.h': No such file or directory
+  cVertexFormat.d3d.cpp
+E:\C++ Projects\Eng2\assigment01_Solution\Engine\Graphics\cVertexFormat.h(22,10): fatal error C1083: Cannot open include file: 'Engine/Assets/ReferenceCountedAssets.h': No such file or directory
+  Graphics.d3d.cpp
+E:\C++ Projects\Eng2\assigment01_Solution\Engine\Graphics\Graphics.h(14,10): fatal error C1083: Cannot open include file: 'Engine/Results/Results.h': No such file or directory
+  sContext.d3d.cpp
+E:\C++ Projects\Eng2\assigment01_Solution\Engine\Graphics\Graphics.h(14,10): fatal error C1083: Cannot open include file: 'Engine/Results/Results.h': No such file or directory
+  cConstantBuffer.gl.cpp
+E:\C++ Projects\Eng2\assigment01_Solution\Engine\Graphics\cConstantBuffer.h(28,10): fatal error C1083: Cannot open include file: 'Engine/Results/Results.h': No such file or directory
+  cRenderState.gl.cpp
+E:\C++ Projects\Eng2\assigment01_Solution\Engine\Graphics\cRenderState.h(18,10): fatal error C1083: Cannot open include file: 'Engine/Results/Results.h': No such file or directory
+  cShader.gl.cpp
+E:\C++ Projects\Eng2\assigment01_Solution\Engine\Graphics\cShader.h(16,10): fatal error C1083: Cannot open include file: 'Engine/Assets/ReferenceCountedAssets.h': No such file or directory
+  cVertexFormat.gl.cpp
+E:\C++ Projects\Eng2\assigment01_Solution\Engine\Graphics\cVertexFormat.h(22,10): fatal error C1083: Cannot open include file: 'Engine/Assets/ReferenceCountedAssets.h': No such file or directory
+  Graphics.gl.cpp
+E:\C++ Projects\Eng2\assigment01_Solution\Engine\Graphics\Graphics.h(14,10): fatal error C1083: Cannot open include file: 'Engine/Results/Results.h': No such file or directory
+  sContext.gl.cpp
+E:\C++ Projects\Eng2\assigment01_Solution\Engine\Graphics\Graphics.h(14,10): fatal error C1083: Cannot open include file: 'Engine/Results/Results.h': No such file or directory
+  sContext.cpp
+E:\C++ Projects\Eng2\assigment01_Solution\Engine\Graphics\Graphics.h(14,10): fatal error C1083: Cannot open include file: 'Engine/Results/Results.h': No such file or directory
+  Generating Code...

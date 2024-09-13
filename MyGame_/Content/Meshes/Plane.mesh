@@ -1,0 +1,48 @@
+return
+{
+	--vertexCount: 4
+	vertexData = 
+	{
+		--vertexId: 0
+		{
+			position = {-5, 0, 5,},
+			normal = {0, 1, 0,},
+			Tangent = {1, -0, 0,},
+			Bitangent = {0, 0, -1,},
+			TexCoord = {0, 0,},
+			Color = {1, 1, 1, 1,},
+		},
+		--vertexId: 1
+		{
+			position = {5, 0, 5,},
+			normal = {0, 1, 0,},
+			Tangent = {1, 0, 0,},
+			Bitangent = {0, 0, -1,},
+			TexCoord = {1, 0,},
+			Color = {1, 1, 1, 1,},
+		},
+		--vertexId: 2
+		{
+			position = {-5, 0, -5,},
+			normal = {0, 1, 0,},
+			Tangent = {1, 0, 0,},
+			Bitangent = {0, 0, -1,},
+			TexCoord = {0, 1,},
+			Color = {1, 1, 1, 1,},
+		},
+		--vertexId: 3
+		{
+			position = {5, 0, -5,},
+			normal = {0, 1, 0,},
+			Tangent = {1, 0, 0,},
+			Bitangent = {0, 0, -1,},
+			TexCoord = {1, 1,},
+			Color = {1, 1, 1, 1,},
+		},
+	},
+	--indexCount: 6
+	indexData = 
+	{
+		0, 2, 1, 2, 3, 1,
+	},
+}
